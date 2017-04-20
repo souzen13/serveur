@@ -13,7 +13,7 @@ AddEventHandler('foundation:playerWhitelisted', function(whitelisted)
 			command = 'blockPlayer'
 		})
 	else
-		sendMessage('You are whitelisted, welcome!')
+		sendMessage('Tu es sur la whiteliste, bienvenue!')
 	end
 end)
 
